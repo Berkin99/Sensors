@@ -9,7 +9,7 @@
  *  SPI or I2C based communication. (SPI tested)
  *  Adaptive to changed settings.
  *
- *	Updates and bug reports :  @ https://github.com/Berkin99/MPU6500
+ * Updates and bug reports :  @ https://github.com/Berkin99/Sensors
  *
  *  12.01.2024 : Created MPU6500 module driver.
  *
